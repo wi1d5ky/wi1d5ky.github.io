@@ -1,5 +1,9 @@
 # wildskyf.github.io
 
+|[Blog](https://blog.wildsky.cc)|[Twitter](https://twitter.com/wildskyf)|[GitHub](https://github.com/wildskyf)|[LinkedIn](https://www.linkedin.com/in/wildsky/)|
+|:-|:-|:-|:-|
+
+
 ## Projects
 
 ### Firefox Add-ons
