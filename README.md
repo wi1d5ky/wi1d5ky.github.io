@@ -20,7 +20,7 @@
 * [SurviveNTNU](http://survive.shida.us/) [[src](https://github.com/communityNTNU/surviveNTNU/)]
 * [NTNU Student Association Website](https://ntnusa.github.io/) [[src](https://github.com/ntnusa/ntnusa.github.io)]
 * [Linux Taiwan Community Website](http://www.linux.org.tw/) [[src](https://github.com/linux-taiwan/www.linux.org.tw)]
-* [Lollypop - Gnome Player Website](https://gnumdk.github.io/lollypop-web/) [[src](https://github.com/gnumdk/lollypop-web)]
+* [Lollypop - Gnome Player Website](https://wildskyf.github.io/lollypop-web/) [[src](https://github.com/wildskyf/lollypop-web)]
 * [WebGL DNA](https://wildskyf.github.io/WebGL-DNA/) [[src](https://github.com/wildskyf/WebGL-DNA)]
 * [Pokemon Search System](http://wildsky.cc/pokemon/) [[src](https://github.com/wildskyf/Pokemon-Encyclopedia)]
 * [NTNU CSIE Welcome Page for 107 Fresh Student](http://wildskyf.github.io/for107/) [[src](https://github.com/wildskyf/for107)]
