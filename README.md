@@ -18,7 +18,8 @@
 
 * [NTNU Course](http://course.sa.ntnu.edu.tw)
 * [SurviveNTNU](http://survive.shida.us/) [[src](https://github.com/communityNTNU/surviveNTNU/)]
-* [NTNU Student Association Website](https://ntnusa.github.io/) [[src](https://github.com/ntnusa/ntnusa.github.io)]
+* [NTNU Student Association Website (20th)](https://ntnusa.github.io/) [[src](https://github.com/ntnusa/ntnusa.github.io)]
+* [NTNU Student Association Website (19th)](https://ntnusa.github.io/ntnusa-site-19th) [[src](https://github.com/ntnusa/ntnusa-site-19th)]
 * [Linux Taiwan Community Website](http://www.linux.org.tw/) [[src](https://github.com/linux-taiwan/www.linux.org.tw)]
 * [Lollypop - Gnome Player Website](https://wildskyf.github.io/lollypop-web/) [[src](https://github.com/wildskyf/lollypop-web)]
 * [WebGL DNA](https://wildskyf.github.io/WebGL-DNA/) [[src](https://github.com/wildskyf/WebGL-DNA)]
