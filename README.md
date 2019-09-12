@@ -1,6 +1,6 @@
 # wildskyf.github.io
 
-[Blog](https://blog.wildskyf.net) | [Twitter](https://twitter.com/wildskyf) | [GitHub](https://github.com/wildskyf) | [LinkedIn](https://www.linkedin.com/in/wildsky/)
+[Blog](https://blog.wildsky.cc) | [Twitter](https://twitter.com/wildskyf) | [GitHub](https://github.com/wildskyf) | [LinkedIn](https://www.linkedin.com/in/wildsky/)
 
 
 
